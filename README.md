@@ -90,4 +90,4 @@ psql -d football_ticket_db -f QUERY.sql
 
 ## Author
 
-**Ehtisamul Haque** ([@Eh-haque](https://github.com/Muntacir-Tamim))
+**Muntacir Tamim** ([@Muntacir-Tamim](https://github.com/Muntacir-Tamim))
