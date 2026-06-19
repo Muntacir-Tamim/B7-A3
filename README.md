@@ -12,7 +12,7 @@ The system tracks three things:
 
 ## Entity relationship diagram
 
-🔗 **ERD link:** _add your Draw.io / Lucidchart public link here_
+🔗 **ERD link:** https://drive.google.com/file/d/1TtF-Z2fj4ASeE9tTJe3CoEGdMkysWxmI/view?usp=sharing
 
 | Relationship | Type |
 |---|---|
@@ -83,8 +83,11 @@ psql -d football_ticket_db -f QUERY.sql
 
 ## Additional submission links
 
-- 🎤 Viva video walkthrough: _add your video link here_
+- 🎤 Viva video walkthrough:
+- https://drive.google.com/file/d/126Nw4nQWpLue7rAj6T6AByrhzyHWn7Gf/view?usp=sharing
+- https://drive.google.com/file/d/1qY5UCRjnFnSlfzwgUuyMmtjBvX_8GgXC/view?usp=sharing
+- https://drive.google.com/file/d/1tvCKuQ7mD33SFlTNJ5pk3BdV_10D8g9G/view?usp=sharing
 
 ## Author
 
-**Ehtisamul Haque** ([@Eh-haque](https://github.com/Eh-haque))
+**Ehtisamul Haque** ([@Eh-haque](https://github.com/Muntacir-Tamim))
